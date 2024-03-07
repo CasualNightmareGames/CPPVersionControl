@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
-{
-	std::cout << "Goodbye cruel world\n\n";
+{	//Print some text
+	std::cout << "Welcome\n\n";
+	//yeah yeah baby
 }
