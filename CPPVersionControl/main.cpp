@@ -1,6 +1,12 @@
 #include <iostream>
-int main()
-{	//Print some text
+
+void greet()
+{
+	//Print some text
 	std::cout << "Welcome\n\n";
-	//yeah yeah baby
+}
+
+int main()
+{	
+	greet();
 }
